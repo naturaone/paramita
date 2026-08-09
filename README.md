@@ -1,4 +1,4 @@
-# 知足天 · 技術實現（tusita-implementation）
+# 知足天 · 技術實現（Tusita-Implementation）
 
 > 本倉庫為知足天思想藍圖的技術落實方案。
 > 歡迎技術人員參與實現。
