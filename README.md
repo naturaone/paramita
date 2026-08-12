@@ -12,7 +12,7 @@
  [下載系統設計文件（PDF）](./SYSTEM_DESIGN.pdf)
 
 ## 版權
-本仓库及其所有内容（包括但不限于所有文本、准则、思想纲领、設計等），版权归 白頭翁 所有。
+本倉庫及其所有內容（包括但不限於所有文本、準則、思想綱領、設計等）採用 **創用CC 姓名標示-非商業性-禁止改作 4.0 國際授權條款 (CC BY-NC-ND 4.0)**
 
 - 自由分享：須註明出處「白頭翁」
 
@@ -54,7 +54,7 @@ All realization shall be based on this.
 
 ## License
 
-All contents of this repository (including but not limited to all texts, guidelines, ideological manifestos, and designs) are copyrighted by Baitouweng (白頭翁).
+All contents of this repository (including but not limited to all texts, guidelines, ideological manifestos, and designs) is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.
 
 - Free Sharing: Attribution to "Baitouweng" is required.
 
@@ -64,7 +64,7 @@ All contents of this repository (including but not limited to all texts, guideli
 
 - Irrevocable: This license is irrevocable; any violation will result in immediate termination of rights.
 
-For full license terms, see:
+For details:
 
 -  [LICENSE](./LICENSE)（Legal Text）
 -  [License Page](https://naturaone.github.io/paramita/)
