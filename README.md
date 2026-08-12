@@ -22,7 +22,7 @@
 
 - 不可撤銷，違約即喪失授權
 
-詳細授權條款參見：
+詳細授權條款，參見：
 
 -  [LICENSE](./LICENSE)（法律原文）
 -  [授權條款](https://naturaone.github.io/paramita/)
