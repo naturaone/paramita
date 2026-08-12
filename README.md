@@ -25,7 +25,7 @@
 詳細授權條款參見：
 
 -  [LICENSE](./LICENSE)（法律原文）
--  [授權條款](https://tusita.one/license.html)
+-  [授權條款](https://naturaone.github.io/paramita/)
 
 ## 相關連結
 
@@ -67,7 +67,7 @@ All contents of this repository (including but not limited to all texts, guideli
 For full license terms, see:
 
 -  [LICENSE](./LICENSE)（Legal Text）
--  [License Page](https://tusita.one/license.html)
+-  [License Page](https://naturaone.github.io/paramita/)
 
 
 ## Links
