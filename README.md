@@ -4,7 +4,9 @@
 ## 簡介
 
 知足天是一套以「人人自主」為核心的藍圖。
+
 本倉庫包含知足天藍圖之落實準則。
+
 所有實現須以此為準。
 
 ## 準則
@@ -12,7 +14,7 @@
  [下載系統設計文件（PDF）](./SYSTEM_DESIGN.pdf)
 
 ## 版權
-本倉庫及其所有內容（包括但不限於所有文本、準則、思想綱領、設計等）採用 **創用CC 姓名標示-非商業性-禁止改作 4.0 國際授權條款 (CC BY-NC-ND 4.0)**
+本倉庫及其所有內容（包括但不限於所有文本、準則、思想綱領、設計等）採用 **創用CC 姓名標示-非商業性-禁止改作 4.0 國際授權條款 (CC BY-NC-ND 4.0)**。
 
 - 自由分享：須註明出處「白頭翁」
 
@@ -44,6 +46,7 @@
 ## Overview
 
 This repository is responsible for realizing Tusita, and contains the guidelines for realization. 
+
 All realization shall be based on this.
 
 
