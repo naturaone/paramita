@@ -7,7 +7,7 @@
 本倉庫包含知足天藍圖之落實準則。
 所有實現須以此為準。
 
-## 設計文件
+## 準則
 
  [下載系統設計文件（PDF）](./SYSTEM_DESIGN.pdf)
 
@@ -47,7 +47,7 @@ This repository is responsible for realizing Tusita, and contains the guidelines
 All realization shall be based on this.
 
 
-## Design Documents
+## Guidelines
 
  [Download System Design Document (PDF)](./SYSTEM_DESIGN.pdf)
 
