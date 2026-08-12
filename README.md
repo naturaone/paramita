@@ -4,7 +4,7 @@
 ## 簡介
 
 知足天是一套以「人人自主」為核心的藍圖。
-本Paramita倉庫包含知足天藍圖之落實準則。
+本倉庫包含知足天藍圖之落實準則。
 所有實現須以此為準。
 
 ## 設計文件
@@ -43,7 +43,7 @@
 
 ## Overview
 
-This Paramita repository is responsible for realizing Tusita, and contains the guidelines for realization. 
+This repository is responsible for realizing Tusita, and contains the guidelines for realization. 
 All realization shall be based on this.
 
 
