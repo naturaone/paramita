@@ -7,26 +7,25 @@
 本Paramita倉庫包含知足天藍圖之落實準則。
 所有實現須以此為準。
 
-## 設計
+## 設計文件
 
  [下載系統設計文件（PDF）](./SYSTEM_DESIGN.pdf)
 
 ## 版權
 本仓库及其所有内容（包括但不限于所有文本、准则、思想纲领、設計等），版权归 白頭翁 所有。
 
-自由分享：須註明出處「白頭翁」
+- 自由分享：須註明出處「白頭翁」
 
-禁止商用、禁止修改
+- 禁止商用、禁止修改
 
-人類共有，實施須公益、非營利、開放
+- 人類共有，實施須公益、非營利、開放
 
-不可撤銷，違約即喪失授權
+- 不可撤銷，違約即喪失授權
 
 詳細授權條款參見：
 
-LICENSE（法律原文）
-
-授權條款頁面：[https://tusita.one/license.html](https://tusita.one/license.html)
+-  [LICENSE](./LICENSE)（法律原文）
+-  [授權條款](https://tusita.one/license.html)
 
 ## 相關連結
 
@@ -37,31 +36,41 @@ LICENSE（法律原文）
 ---
 
 
-# Tusita · Technical Implementation
+# Paramita 
 
-> This repository is the realization of the Tusita blueprint.
+> To construct Tusita, a heaven for all.
 
 
 ## Overview
 
-Tusita is a blueprint centered on the principle of **"autonomy for all"**.
-This repository is responsible for realizing that blueprint.
+This Paramita repository is responsible for realizing Tusita, and contains the guidelines for realization. 
+All realization shall be based on this.
 
 
-## System Specification
+## Design Documents
 
  [Download System Design Document (PDF)](./SYSTEM_DESIGN.pdf)
-
-This document is closed and not open to modification.
-All implementation must be based on this document.
 
 
 ## License
 
-This repository and all its contents (including but not limited to all texts, guidelines, and ideological manifestos) are copyrighted by Baitouweng(白頭翁). No part of this content may be reproduced, distributed, or used for any commercial purpose without the prior written permission of the copyright holder.
+All contents of this repository (including but not limited to all texts, guidelines, ideological manifestos, and designs) are copyrighted by Baitouweng (白頭翁).
+
+- Free Sharing: Attribution to "Baitouweng" is required.
+
+- NonCommercial & NoDerivatives: Commercial use and modification are prohibited.
+
+- Common Heritage of Humanity: All implementation must be non-profit, open, and for the public good.
+
+- Irrevocable: This license is irrevocable; any violation will result in immediate termination of rights.
+
+For full license terms, see:
+
+-  [LICENSE](./LICENSE)（Legal Text）
+-  [License Page](https://tusita.one/license.html)
 
 
 ## Links
 
 - Tusita：[https://tusita.one](https://tusita.one)
-- License：[https://tusita.one/license.html](https://tusita.one/license.html)
+
