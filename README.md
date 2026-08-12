@@ -18,7 +18,7 @@
 
 - 禁止商用、禁止修改
 
-- 人類共有，實施須公益、非營利、開放
+- 眾生共有，實施須公益、非營利、開放
 
 - 不可撤銷，違約即喪失授權
 
@@ -60,7 +60,7 @@ All contents of this repository (including but not limited to all texts, guideli
 
 - NonCommercial & NoDerivatives: Commercial use and modification are prohibited.
 
-- Common Heritage of Humanity: All implementation must be non-profit, open, and for the public good.
+- Common Heritage of All: All implementation must be non-profit, open, and for the public good.
 
 - Irrevocable: This license is irrevocable; any violation will result in immediate termination of rights.
 
